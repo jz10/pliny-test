@@ -4,6 +4,7 @@
 1;95;0c * MIT Licensed
 */
 
+
 var jwt = require('jwt-simple');
 module.exports = function(req, res, next) {
     try {
