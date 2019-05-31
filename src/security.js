@@ -1,8 +1,9 @@
 /*!
  * https://www.instapio.com
  * Copyright(c) 2013-2017 Instapio, Inc
- * MIT Licensed
- */   
+1;95;0c * MIT Licensed
+*/
+
 var jwt = require('jwt-simple');
 module.exports = function(req, res, next) {
     try {
